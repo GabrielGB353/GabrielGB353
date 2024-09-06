@@ -1,4 +1,8 @@
-# sobre mim **Gustavo**
+<!---especial repositório sobre o github--->
+
+<!---comentário, serve para esconder ou ocultar dados ---!>
+!(thorfinn)[https://64.media.tumblr.com/85673e04313bb167674860f7867672cf/dafb0688ededdf37-ce/s540x810/f538efc1c662d760f66fd97867c666b13a9c016a.gif]
+ # sobre mim **Gustavo**
 - 👋 **ola, eu sou @GabrielGB353**
 - 👀 Eu estou interessado em aprender novas linguagens de progamação ...
 - 🌱 Eu estou recentemante aprendendo a programar na linguagem de java script e scratch ...
