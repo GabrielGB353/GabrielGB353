@@ -1,7 +1,7 @@
 <!---especial repositório sobre o github--->
 
 <!---comentário, serve para esconder ou ocultar dados ---!>
-!()[https://preview.redd.it/ovj839o79l561.gif?width=500&auto=webp&s=633ee5329700cce20b6e677ec1396264e119d0b0]
+!()[]
  # sobre mim **Gustavo**
 - 👋 **ola, eu sou @GabrielGB353**
 - 👀 Eu estou interessado em aprender novas linguagens de progamação ...
