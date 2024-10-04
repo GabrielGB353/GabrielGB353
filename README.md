@@ -1,7 +1,7 @@
 <!---especial repositorio sobre o github --->
 
 <!---comentario, serve para econder ou ocultar dados --->
- ![neymar](https://i.pinimg.com/originals/d9/ea/b6/d9eab6d4d898967c9f2ed50d6a1df38c.gif)
+ ![cristiano](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1719.gif)
  ![neymar](https://media3.giphy.com/media/utio7lyz4Ehl6/giphy.gif?cid=6c09b952yjw49mgp6m0xcxkca9xmnx7te8vpdil4bmeuxy2n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  
 # sobre mim **Gustavo**
